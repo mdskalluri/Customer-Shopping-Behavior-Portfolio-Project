@@ -45,7 +45,9 @@ The dashboard uses donut charts, bar charts, and column charts, along with inter
 
 ##💡 Business Insights
 
-The analysis reveals that customer behavior is strongly influenced by demographics and product preferences, with the Adult (26–46) segment contributing the highest share of revenue and the Clothing category generating nearly 45–50% of total sales. While returning customers form a significant portion of the customer base, indicating strong retention, subscription adoption remains low at around 27%, highlighting a key opportunity for growth. Additionally, discount strategies are effective in increasing customer engagement and purchase value but should be optimized to maintain profitability. By focusing on targeted marketing for high-value segments and improving subscription offerings, the business can enhance customer lifetime value and overall performance.
+The analysis reveals that customer behavior is strongly influenced by demographics and product preferences, with the Adult (26–46) segment contributing the highest share of revenue and the Clothing category generating nearly 45–50% of total sales. While returning customers form a significant portion of the customer base, indicating strong retention, subscription adoption remains low at around 27%, highlighting a key opportunity for growth. 
+
+Additionally, discount strategies are effective in increasing customer engagement and purchase value but should be optimized to maintain profitability. By focusing on targeted marketing for high-value segments and improving subscription offerings, the business can enhance customer lifetime value and overall performance.
 
 ##🚀 Conclusion
 
