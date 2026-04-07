@@ -43,12 +43,12 @@ Subscription analysis highlights that only 27% of customers are subscribed, whil
 
 The dashboard uses donut charts, bar charts, and column charts, along with interactive filters, allowing users to dynamically explore trends across categories, demographics, and customer segments.
 
-##💡 Business Insights
+## 💡 Business Insights
 
 The analysis reveals that customer behavior is strongly influenced by demographics and product preferences, with the Adult (26–46) segment contributing the highest share of revenue and the Clothing category generating nearly 45–50% of total sales. While returning customers form a significant portion of the customer base, indicating strong retention, subscription adoption remains low at around 27%, highlighting a key opportunity for growth. 
 
 Additionally, discount strategies are effective in increasing customer engagement and purchase value but should be optimized to maintain profitability. By focusing on targeted marketing for high-value segments and improving subscription offerings, the business can enhance customer lifetime value and overall performance.
 
-##🚀 Conclusion
+## 🚀 Conclusion
 
 This project demonstrates a complete end-to-end data analytics workflow, integrating Python for data preprocessing, SQL for advanced analysis, and Power BI for visualization. By transforming raw data into meaningful insights, the project highlights how data-driven approaches can support better decision-making, improve customer engagement, and drive business growth in the retail domain.
